@@ -1,5 +1,7 @@
 # GLDNF WARRIOR LOADER
 
+<img src="https://github.com/DesignisOrion/GLDNF-Warrior-Loader/blob/main/img/one.png" alt="GLDNF Character" />
+
 An app that allows users to choose their GLDNF Warrior using the GUI. The GUI was created using PySimpleGUI. I wanted to learn a new GUI library and came across PySimpleGUI. The goal here was to create a file browser that would load different image formats. Attached are 2 warriors (.png) in which I created using Asesprite pixel art software. I also included the .exe file which can be found under "dist" folder. Enjoy!
 
 ## Usage
